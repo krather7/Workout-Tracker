@@ -12,11 +12,11 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Bicep Curl",
+        name: "Arms",
         duration: 20,
-        weight: 100,
+        weight: 40,
         reps: 10,
-        sets: 4
+        sets: 3
       }
     ]
   },
@@ -25,9 +25,9 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Lateral Pull",
+        name: "Glutes",
         duration: 20,
-        weight: 300,
+        weight: 40,
         reps: 10,
         sets: 4
       }
@@ -38,10 +38,10 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Push Press",
-        duration: 25,
-        weight: 185,
-        reps: 8,
+        name: "Back",
+        duration: 15,
+        weight: 35,
+        reps: 12,
         sets: 4
       }
     ]
@@ -61,12 +61,10 @@ let workoutSeed = [
     day: new Date().setDate(new Date().getDate()-6),
     exercises: [
       {
-        type: "resistance",
-        name: "Bench Press",
-        duration: 20,
-        weight: 285,
-        reps: 10,
-        sets: 4
+        type: "cardio",
+        name: "Walking",
+        duration: 50,
+        distance: 4
       }
     ]
   },
@@ -75,9 +73,9 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Bench Press",
+        name: "Chest",
         duration: 20,
-        weight: 300,
+        weight: 100,
         reps: 10,
         sets: 4
       }
@@ -88,9 +86,9 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Quad Press",
-        duration: 30,
-        weight: 300,
+        name: "Legs",
+        duration: 20,
+        weight: 40,
         reps: 10,
         sets: 4
       }
@@ -101,9 +99,9 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Bench Press",
+        name: "Arms",
         duration: 20,
-        weight: 300,
+        weight: 45,
         reps: 10,
         sets: 4
       }
@@ -114,9 +112,9 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Military Press",
+        name: "Glutes",
         duration: 20,
-        weight: 300,
+        weight: 45,
         reps: 10,
         sets: 4
       }
@@ -127,9 +125,9 @@ let workoutSeed = [
     exercises: [
       {
         type: "cardio",
-        name: "Bench",
+        name: "Rowing",
         duration: 30,
-        distance: 2
+        distance: 3
       }
     ]
   }
