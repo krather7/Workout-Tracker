@@ -7,6 +7,7 @@
 - [Deployed Webite](#deployed)
 - [Description](#description)
 - [License](#license)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [Questions](#questions)
 ## Deployed Website
@@ -20,6 +21,9 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
 This application is covered by the MIT license. 
+## Screenshots
+<img src = "https://github.com/krather7/Workout-Tracker/blob/main/assets/screenshot-1.png" width = 50% height = 50%>
+<img src = "https://github.com/krather7/Workout-Tracker/blob/main/assets/screenshot-2.png" width = 50% height = 50%>
 ## Contributing
 Kyle Rather
 ## Questions
