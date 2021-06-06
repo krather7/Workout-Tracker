@@ -24,6 +24,7 @@ This application is covered by the MIT license.
 ## Screenshots
 <img src = "https://github.com/krather7/Workout-Tracker/blob/main/assets/screenshot-1.png" width = 50% height = 50%>
 <img src = "https://github.com/krather7/Workout-Tracker/blob/main/assets/screenshot-2.png" width = 50% height = 50%>
+<br />
 ## Contributing
 Kyle Rather
 ## Questions
